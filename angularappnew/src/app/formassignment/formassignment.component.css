@@ -1,0 +1,11 @@
+.container{
+    background-image: url('/assets/peaceful-flower.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    color : white;
+} 
+
+input.ng-invalid.ng-touched {
+    border: 1.5px solid red;
+    box-shadow: 0 0 13px #ff000021;
+}
